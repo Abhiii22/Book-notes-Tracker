@@ -2,7 +2,7 @@
 
 A web application to track books you've read, take notes, and rate them. Inspired by Derek Sivers' book notes website.
 
-## Features
+## Features 
 
 - Add books with title, author, rating, date read, and notes
 - View all books with sorting options (by date, rating, or title)
