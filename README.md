@@ -19,7 +19,7 @@ A web application to track books you've read, take notes, and rate them. Inspire
 
 ### Installation
 
-1. Clone or download this project
+1. Clone or download this project 
 2. Navigate to the project directory
 3. Install dependencies: `npm install`
 4. Set up the database:
