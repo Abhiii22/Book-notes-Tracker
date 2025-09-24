@@ -7,7 +7,7 @@ A web application to track books you've read, take notes, and rate them. Inspire
 - Add books with title, author, rating, date read, and notes
 - View all books with sorting options (by date, rating, or title)
 - Edit or delete book entries
-- Automatic book cover retrieval from Open Library API
+- Automatic book cover retrieval from Open Library API 
 - Clean, responsive design
 
 ## Setup Instructions
