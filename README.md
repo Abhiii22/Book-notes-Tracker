@@ -14,7 +14,7 @@ A web application to track books you've read, take notes, and rate them. Inspire
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v14 or higher) 
 - PostgreSQL
 
 ### Installation
