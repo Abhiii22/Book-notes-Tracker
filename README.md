@@ -1,5 +1,5 @@
 # Book Notes Tracker
-
+ 
 A web application to track books you've read, take notes, and rate them. Inspired by Derek Sivers' book notes website.
 
 ## Features 
