@@ -9,7 +9,7 @@ A web application to track books you've read, take notes, and rate them. Inspire
 - Edit or delete book entries
 - Automatic book cover retrieval from Open Library API 
 - Clean, responsive design 
-
+ 
 ## Setup Instructions
 
 ### Prerequisites
